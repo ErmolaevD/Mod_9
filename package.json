@@ -1,0 +1,22 @@
+{
+  "name": "mod_9",
+  "version": "1.0.0",
+  "description": "skillfactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmolaevD/Mod_9.git"
+  },
+  "author": "edm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmolaevD/Mod_9/issues"
+  },
+  "homepage": "https://github.com/ErmolaevD/Mod_9#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
