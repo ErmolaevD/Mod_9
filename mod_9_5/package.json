@@ -1,0 +1,20 @@
+{
+  "name": "node_js_mode",
+  "version": "1.1.0",
+  "description": "node_js_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ErmolaevD/Mod_9_all.git"
+  },
+  "author": "ermolaevd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmolaevD/Mod_9_all/issues"
+  },
+  "homepage": "https://github.com/ErmolaevD/Mod_9_all#readme"
+}
