@@ -1,6 +1,6 @@
 {
   "name": "node_js_mode",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "node_js_test",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ErmolaevD/Mod_9_all/issues"
   },
-  "homepage": "https://github.com/ErmolaevD/Mod_9_all#readme"
+  "homepage": "https://github.com/ErmolaevD/Mod_9_all#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
